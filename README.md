@@ -15,4 +15,4 @@ This is a practice project.  It is meant to cover CRUD functions, relationships 
 * There is very little, if any, ActiveRecord queries.  You could make up user stories to add them, such as 'What is the average oven temperature needed for cakes', 'What is the total number of ingredients needed for all of the pie recipes', etc.
 ​
 ## Isabelle's Graph
-<img src="https://ibb.co/JHRMMmC" alt="bakery-design">
+<img src="https://i.ibb.co/L1z22Yv/bakery-design.png" alt="bakery-design">
